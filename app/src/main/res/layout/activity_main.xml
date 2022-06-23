@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hier Startet bald das Home Fragment der Wissens App"
+        android:text="@string/hier_startet_bald_das_home_fragment_der_wissens_app"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
@@ -22,7 +22,7 @@
         android:layout_marginHorizontal="16dp"
         android:layout_marginBottom="70dp"
         android:backgroundTint="@color/yellow"
-        android:text="LOG OUT"
+        android:text="@string/log_out"
         android:textColor="@color/black"
         android:textSize="14sp"
         app:layout_constraintBottom_toBottomOf="parent"

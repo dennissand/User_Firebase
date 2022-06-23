@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">User_Firebase</string>
+    <string name="hier_startet_bald_das_home_fragment_der_wissens_app">Hier Startet bald das Home Fragment der Wissens App</string>
+    <string name="log_out">LOG OUT</string>
 </resources>
